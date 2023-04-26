@@ -1,0 +1,15 @@
+C:\Users\hewad\Documents\GitHub\C--practice\bin\Debug\net7.0\C--practice.exe
+C:\Users\hewad\Documents\GitHub\C--practice\bin\Debug\net7.0\C--practice.deps.json
+C:\Users\hewad\Documents\GitHub\C--practice\bin\Debug\net7.0\C--practice.runtimeconfig.json
+C:\Users\hewad\Documents\GitHub\C--practice\bin\Debug\net7.0\C--practice.dll
+C:\Users\hewad\Documents\GitHub\C--practice\bin\Debug\net7.0\C--practice.pdb
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\C--practice.csproj.AssemblyReference.cache
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\C--practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\C--practice.AssemblyInfoInputs.cache
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\C--practice.AssemblyInfo.cs
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\C--practice.csproj.CoreCompileInputs.cache
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\C--practice.dll
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\refint\C--practice.dll
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\C--practice.pdb
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\C--practice.genruntimeconfig.cache
+C:\Users\hewad\Documents\GitHub\C--practice\obj\Debug\net7.0\ref\C--practice.dll
